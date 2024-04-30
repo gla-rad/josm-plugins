@@ -1,0 +1,10 @@
+target/
+.settings
+.project
+.classpath
+*~
+.DS_Store
+.idea
+*.iml
+.java-version
+.lucene/
